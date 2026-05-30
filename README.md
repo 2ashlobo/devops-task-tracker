@@ -148,3 +148,8 @@ terraform destroy -var="key_name=your-key-pair"
 ## License
 
 MIT
+
+
+deployed app on EC2 instance 
+<img width="1918" height="1068" alt="image" src="https://github.com/user-attachments/assets/f1116375-3092-472a-ba96-d25fe12e41b0" />
+
