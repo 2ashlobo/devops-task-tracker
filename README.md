@@ -105,7 +105,7 @@ python -m pytest tests/ -v
 | Push | Push image to Docker Hub |
 | Deploy | Apply Kubernetes manifests |
 
-## Kubernetes Deployment
+optional if u want to create an EKS instance,## Kubernetes Deployment
 
 ```bash
 # Apply manifests
@@ -117,7 +117,7 @@ kubectl get pods
 kubectl get services
 ```
 
-## Terraform (AWS EC2)
+I have created an EC2 instance ## Terraform (AWS EC2)
 
 ```bash
 cd terraform
